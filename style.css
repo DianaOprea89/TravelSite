@@ -1,0 +1,66 @@
+
+.do-logo{
+    max-width: 100px;
+}
+.do-logo2{
+    max-width: 190px;
+}
+.do-form{
+    max-width: 50%;
+
+}
+.do-pic{
+    max-width: 350px;
+   margin-left: 40px;
+    margin-top: 40px;
+}
+.do-ad{
+    max-width: 200px;
+    border: 2px solid black;
+}
+.do-newsletter {
+    border: 1px solid darkgrey;
+    border-radius: 3%;
+    max-width: 800px;
+}
+.do-header-wrap h1{
+    padding: 0 100px;
+    font-size: 50px;
+    line-height: 30px;
+}
+.do-widget {
+    max-width: 200px;
+    font-size: 15px;
+
+}
+
+.contact{
+    border:1px groove lightgrey ;
+    border-radius: 5px;
+    font-size: 12px;
+}
+.do-text-title{
+    background: linear-gradient(15deg, #074873, rgb(193, 224, 246));
+    color: #f6f6f1;
+    padding: 15px 15px 18px 15px;
+
+}
+.do-fonts{
+    font-size: 18px;
+}
+.do-row-food{
+    border: 2px solid lightgrey;
+    margin: 15px;
+    padding: 5px;
+
+}
+.do-row-food > div {
+    padding: 15px;
+}
+.do-img-food {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+
